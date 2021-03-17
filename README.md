@@ -23,7 +23,7 @@ Cash notes mainly have two views, one is the overview to check your spent and ea
       <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Update_Record.png"/></center></td>
     </tr>
 </table>
-<p align="center">1. Overview; 2. Charts 3. Add Record 4. Update Record</p>
+<p align="center">1. Overview; 2. Charts; 3. Add Record; 4. Update Record</p>
 
 ## Date/ Calendar
 <table>
@@ -34,7 +34,7 @@ Cash notes mainly have two views, one is the overview to check your spent and ea
       <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Yearpicker.png"/></center></td>
     </tr>
 </table>
-<p align="center">1. Overview; 2. Charts 3. Add Record 4. Update Record</p>
+<p align="center">1. Graphical Style Datepicker; 2. Wheel Style Datepicker; 3. Month Picker; 4. Year Picker</p>
 
 
 ## Reference
