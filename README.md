@@ -19,9 +19,11 @@ Cash notes mainly have two views, one is the overview to check your spent and ea
     <tr>
       <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Overview.png"/></center></td>
       <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Charts.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Add_Record.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Update_Record.png"/></center></td>
     </tr>
 </table>
-<p align="center">Left: Whole network; Right: In-washu network</p>
+<p align="center">1.Overview; 2. Charts 3. Add Record 4. Update Record</p>
 
 
 ## Date/ Calendar
