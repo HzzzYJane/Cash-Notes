@@ -23,10 +23,19 @@ Cash notes mainly have two views, one is the overview to check your spent and ea
       <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Update_Record.png"/></center></td>
     </tr>
 </table>
-<p align="center">1.Overview; 2. Charts 3. Add Record 4. Update Record</p>
-
+<p align="center">1. Overview; 2. Charts 3. Add Record 4. Update Record</p>
 
 ## Date/ Calendar
+<table>
+    <tr>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Graphical_Datepicker.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Wheel_Datepicker.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Monthpicker.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Yearpicker.png"/></center></td>
+    </tr>
+</table>
+<p align="center">1. Overview; 2. Charts 3. Add Record 4. Update Record</p>
+
 
 ## Reference
 1. App Icon <br/>
