@@ -15,6 +15,14 @@ Cash notes mainly have two views, one is the overview to check your spent and ea
 - Select the specific day, month or year and this date would show on the chart view
 - Visualize users’ income and outcome history in the form of  bar chart
 ## Screen shots (All on iPhone 12)
+<table>
+    <tr>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Overview.png"/></center></td>
+      <td><center><img src="https://github.com/HzzzYJane/Cash-Notes/blob/main/Screenshots/Charts.png"/></center></td>
+    </tr>
+</table>
+<p align="center">Left: Whole network; Right: In-washu network</p>
+
 
 ## Date/ Calendar
 
