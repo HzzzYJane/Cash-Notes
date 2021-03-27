@@ -98,6 +98,7 @@ struct barChart: View {
             Spacer()
            }
             .navigationBarTitle("Bar charts", displayMode: .inline)
+            .background(Color(UIColor.systemGray6))
         }
     }
 
